@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0" name="RPG Heroes/RPG_pack_32/male/head">
+        <file id="0" name="RPG Heroes/RPG_pack_32/male/head/head_front.png" width="17" height="18" pivot_x="0.470588" pivot_y="0.555556"/>
+    </folder>
+    <folder id="1" name="Run N Gun/PlayerCharacter/head">
+        <file id="0" name="Run N Gun/PlayerCharacter/head/p_head_turn_0.png" width="212" height="214" pivot_x="0.735849" pivot_y="0.392523"/>
+    </folder>
+    <folder id="2" name="Run N Gun/PlayerCharacter/torso">
+        <file id="0" name="Run N Gun/PlayerCharacter/torso/p_torso_front.png" width="88" height="88" pivot_x="0.5" pivot_y="0.534091"/>
+        <file id="1" name="Run N Gun/PlayerCharacter/torso/p_torso_idle.png" width="88" height="88" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="3" name="Run N Gun/PlayerCharacter/smaller_head">
+        <file id="0" name="Run N Gun/PlayerCharacter/smaller_head/p_head_angry.png" width="170" height="171" pivot_x="0.747059" pivot_y="0.432749"/>
+    </folder>
+    <folder id="4" name="Run N Gun/PlayerCharacter/legs">
+        <file id="0" name="Run N Gun/PlayerCharacter/legs/p_thigh_idle_0.png" width="58" height="42" pivot_x="0.724138" pivot_y="0.428571"/>
+        <file id="1" name="Run N Gun/PlayerCharacter/legs/p_pelvis_walk.png" width="48" height="63" pivot_x="0.416667" pivot_y="0.412698"/>
+        <file id="2" name="Run N Gun/PlayerCharacter/legs/p_pelvis_die.png" width="48" height="63" pivot_x="0.333333" pivot_y="0.507937"/>
+        <file id="3" name="Run N Gun/PlayerCharacter/legs/p_thigh_a.png" width="53" height="38" pivot_x="0.716981" pivot_y="0.5"/>
+        <file id="4" name="Run N Gun/PlayerCharacter/legs/p_thigh_ladder_0.png" width="58" height="42" pivot_x="0.724138" pivot_y="0.5"/>
+    </folder>
+    <folder id="5" name="Run N Gun/PlayerCharacter/arms">
+        <file id="0" name="Run N Gun/PlayerCharacter/arms/p_arm_idle_a.png" width="52" height="37" pivot_x="0.346154" pivot_y="0.513514"/>
+        <file id="1" name="Run N Gun/PlayerCharacter/arms/p_arm_idle.png" width="66" height="49" pivot_x="0.318182" pivot_y="0.571429"/>
+        <file id="2" name="Run N Gun/PlayerCharacter/arms/forarm_throw_0.png" width="53" height="44" pivot_x="0.735849" pivot_y="0.545455"/>
+        <file id="3" name="Run N Gun/PlayerCharacter/arms/p_arm_slide_0.png" width="66" height="49" pivot_x="0.272727" pivot_y="0.530612"/>
+        <file id="4" name="Run N Gun/PlayerCharacter/arms/p_arm_walk.png" width="66" height="49" pivot_x="0.318182" pivot_y="0.55102"/>
+    </folder>
+    <folder id="6" name="Run N Gun/PlayerCharacter/hands">
+        <file id="0" name="Run N Gun/PlayerCharacter/hands/p_hand_a.png" width="79" height="78" pivot_x="0.405063" pivot_y="0.525641"/>
+        <file id="1" name="Run N Gun/PlayerCharacter/hands/p_hand_hang.png" width="79" height="77" pivot_x="0.303797" pivot_y="0.532468"/>
+    </folder>
+    <folder id="7" name="Run N Gun/PlayerCharacter/feet">
+        <file id="0" name="Run N Gun/PlayerCharacter/feet/p_foot_walk_a.png" width="44" height="72" pivot_x="0.5" pivot_y="0.5"/>
+        <file id="1" name="Run N Gun/PlayerCharacter/feet/p_foot_jump_0.png" width="53" height="78" pivot_x="0.245283" pivot_y="0.474359"/>
+    </folder>
+    <folder id="8" name="Basic Platformer/PlatformerPack/head">
+        <file id="0" name="Basic Platformer/PlatformerPack/head/p_head_idle.png" width="212" height="214" pivot_x="0.792453" pivot_y="0.448598"/>
+    </folder>
+    <folder id="9" name="Basic Platformer/PlatformerPack/feet">
+        <file id="0" name="Basic Platformer/PlatformerPack/feet/p_foot_walk_0.png" width="53" height="78" pivot_x="0.283019" pivot_y="0.269231"/>
+        <file id="1" name="Basic Platformer/PlatformerPack/feet/p_foot_jump_0.png" width="53" height="78" pivot_x="0.207547" pivot_y="0.435897"/>
+        <file id="2" name="Basic Platformer/PlatformerPack/feet/p_foot_idle_0.png" width="53" height="78" pivot_x="0.169811" pivot_y="0.461538"/>
+        <file id="3" name="Basic Platformer/PlatformerPack/feet/p_foot_walk_a.png" width="44" height="72" pivot_x="0.340909" pivot_y="0.555556"/>
+    </folder>
+    <folder id="10" name="Basic Platformer/PlatformerPack/legs">
+        <file id="0" name="Basic Platformer/PlatformerPack/legs/p_pelvis_idle.png" width="48" height="63" pivot_x="0.208333" pivot_y="0.603175"/>
+        <file id="1" name="Basic Platformer/PlatformerPack/legs/p_thigh_walk_0.png" width="58" height="42" pivot_x="0.758621" pivot_y="0.47619"/>
+        <file id="2" name="Basic Platformer/PlatformerPack/legs/p_leg_idle_0.png" width="65" height="52" pivot_x="0.184615" pivot_y="0.5"/>
+        <file id="3" name="Basic Platformer/PlatformerPack/legs/p_thigh_a.png" width="53" height="38" pivot_x="0.773585" pivot_y="0.5"/>
+    </folder>
+    <folder id="11" name="Basic Platformer/PlatformerPack/torso">
+        <file id="0" name="Basic Platformer/PlatformerPack/torso/p_torso_walk.png" width="88" height="88" pivot_x="0.261364" pivot_y="0.511364"/>
+    </folder>
+    <folder id="12" name="Adventure Platformer/PlatformerPack/head">
+        <file id="0" name="Adventure Platformer/PlatformerPack/head/p_head_turn_0.png" width="212" height="214" pivot_x="0.787736" pivot_y="0.46729"/>
+    </folder>
+    <folder id="13" name="Adventure Platformer/PlatformerPack/hands">
+        <file id="0" name="Adventure Platformer/PlatformerPack/hands/p_hand_hang.png" width="79" height="77" pivot_x="0.468354" pivot_y="0.545455"/>
+        <file id="1" name="Adventure Platformer/PlatformerPack/hands/p_hand_gun_1.png" width="79" height="77" pivot_x="0.5" pivot_y="0.5"/>
+        <file id="2" name="Adventure Platformer/PlatformerPack/hands/p_hand_gun_0.png" width="79" height="77" pivot_x="0.5" pivot_y="0.5"/>
+    </folder>
+    <folder id="14" name="Adventure Platformer/PlatformerPack/arms">
+        <file id="0" name="Adventure Platformer/PlatformerPack/arms/p_arm_walk.png" width="66" height="49" pivot_x="0.242424" pivot_y="0.571429"/>
+        <file id="1" name="Adventure Platformer/PlatformerPack/arms/p_forarm_idle_0.png" width="53" height="44" pivot_x="0.5" pivot_y="0.5"/>
+    </folder>
+    <folder id="15" name="Adventure Platformer/PlatformerPack/legs">
+        <file id="0" name="Adventure Platformer/PlatformerPack/legs/p_pelvis_walk.png" width="48" height="63" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="Adventure Platformer/PlatformerPack/legs/p_pelvis_idle.png" width="48" height="63" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="Adventure Platformer/PlatformerPack/legs/p_thigh_a.png" width="53" height="38" pivot_x="0.660377" pivot_y="0.5"/>
+        <file id="3" name="Adventure Platformer/PlatformerPack/legs/p_leg_idle_0.png" width="65" height="52" pivot_x="0.246154" pivot_y="0.538462"/>
+    </folder>
+    <folder id="16" name="Adventure Platformer/PlatformerPack/feet">
+        <file id="0" name="Adventure Platformer/PlatformerPack/feet/p_foot_walk_0.png" width="53" height="78" pivot_x="0.5" pivot_y="0.5"/>
+    </folder>
+    <folder id="17" name="Basic Platformer/PlatformerPack/guns">
+        <file id="0" name="Basic Platformer/PlatformerPack/guns/hand-gun.png" width="81" height="49" pivot_x="0.197531" pivot_y="0.510204"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <obj_info name="bone_020" type="bone" w="22.8177" h="10"/>
+        <obj_info name="bone_021" type="bone" w="25.5284" h="10"/>
+        <obj_info name="bone_022" type="bone" w="24.2821" h="10"/>
+        <obj_info name="bone_027" type="bone" w="17.8312" h="10"/>
+        <obj_info name="bone_028" type="bone" w="30.1444" h="10"/>
+        <animation id="0" name="NewAnimation" length="1000" interval="100">
+            <mainline>
+                <key id="0" time="29">
+                    <bone_ref id="0" timeline="3" key="3"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="0"/>
+                    <bone_ref id="2" parent="1" timeline="2" key="0"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="2" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" timeline="5" key="1" z_index="2"/>
+                </key>
+                <key id="1" time="70">
+                    <bone_ref id="0" timeline="3" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="1"/>
+                    <bone_ref id="2" parent="1" timeline="2" key="0"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="2" timeline="0" key="0" z_index="1"/>
+                    <object_ref id="2" timeline="5" key="1" z_index="2"/>
+                </key>
+                <key id="2" time="99">
+                    <bone_ref id="0" timeline="3" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="1"/>
+                    <bone_ref id="2" parent="1" timeline="2" key="1"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="2" timeline="0" key="1" z_index="1"/>
+                    <object_ref id="2" timeline="5" key="2" z_index="2"/>
+                </key>
+                <key id="3" time="168">
+                    <bone_ref id="0" timeline="3" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="1"/>
+                    <bone_ref id="2" timeline="7" key="1"/>
+                    <bone_ref id="3" parent="2" timeline="8" key="0"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="5" key="4" z_index="1"/>
+                    <object_ref id="2" parent="2" timeline="6" key="0" z_index="2"/>
+                </key>
+                <key id="4" time="202">
+                    <bone_ref id="0" timeline="3" key="2"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="2"/>
+                    <bone_ref id="2" parent="1" timeline="7" key="3"/>
+                    <bone_ref id="3" parent="2" timeline="8" key="1"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="5" key="5" z_index="1"/>
+                    <object_ref id="2" parent="2" timeline="6" key="1" z_index="2"/>
+                </key>
+                <key id="5" time="241">
+                    <bone_ref id="0" timeline="3" key="3"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="3"/>
+                    <bone_ref id="2" parent="1" timeline="7" key="4"/>
+                    <bone_ref id="3" parent="2" timeline="8" key="2"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="5" key="6" z_index="1"/>
+                    <object_ref id="2" parent="2" timeline="6" key="2" z_index="2"/>
+                </key>
+                <key id="6" time="263">
+                    <bone_ref id="0" timeline="3" key="3"/>
+                    <bone_ref id="1" parent="0" timeline="4" key="4"/>
+                    <bone_ref id="2" parent="1" timeline="7" key="5"/>
+                    <bone_ref id="3" parent="2" timeline="8" key="3"/>
+                    <object_ref id="0" parent="1" timeline="1" key="0" z_index="0"/>
+                    <object_ref id="1" parent="3" timeline="5" key="7" z_index="1"/>
+                    <object_ref id="2" parent="2" timeline="6" key="3" z_index="2"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="p_hand_gun_1">
+                <key id="0" time="29" spin="0">
+                    <object folder="13" file="1" x="10.633175" y="-4.000384" angle="349.455724" scale_x="0.61025" scale_y="-0.648305"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <object folder="13" file="1" x="10.633175" y="-4.000384" angle="349.455724" scale_x="0.61025" scale_y="-0.648305"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="p_forarm_idle_0_000">
+                <key id="0" time="202" spin="0">
+                    <object folder="14" file="1" x="6.166816" y="-0.360514" angle="357.640832" scale_y="0.749995"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="0" name="bone_020" object_type="bone">
+                <key id="0" time="29" spin="0">
+                    <bone x="27.37328" y="2.03641" angle="3.439402"/>
+                </key>
+                <key id="1" time="99" spin="0">
+                    <bone x="27.37328" y="2.03641" angle="3.439402"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="1" name="bone_021" object_type="bone">
+                <key id="0" time="70" spin="-1">
+                    <bone x="38.207547" y="64.622642" angle="279.819301"/>
+                </key>
+                <key id="1" time="99" spin="-1">
+                    <bone x="38.207547" y="64.622642" angle="273.012788"/>
+                </key>
+                <key id="2" time="202">
+                    <bone x="38.207547" y="64.622642" angle="272.337306"/>
+                </key>
+                <key id="3" time="241" spin="-1">
+                    <bone x="38.207547" y="64.622642" angle="289.440035" scale_x="0.960703" scale_y="1"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="2" name="bone_022" object_type="bone">
+                <key id="0" time="29" spin="-1">
+                    <bone x="27.92539" y="0.960185" angle="333.709054"/>
+                </key>
+                <key id="1" time="70">
+                    <bone x="27.92539" y="0.960185" angle="301.240327"/>
+                </key>
+                <key id="2" time="202" spin="-1">
+                    <bone x="27.92539" y="0.960185" angle="16.222976"/>
+                </key>
+                <key id="3" time="241">
+                    <bone x="27.92539" y="0.960185" angle="15.702615" scale_x="1.040904" scale_y="1"/>
+                </key>
+                <key id="4" time="263" spin="-1">
+                    <bone x="27.92539" y="0.960185" angle="33.783987" scale_x="1.039719" scale_y="1"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="hand-gun">
+                <key id="0" time="29" spin="-1">
+                    <object folder="17" file="0" x="30.695526" y="60.456615" angle="305.517061" scale_x="0.459284" scale_y="-0.58041"/>
+                </key>
+                <key id="1" time="29" spin="-1">
+                    <object folder="17" file="0" x="92.818248" y="-38.397048" angle="204.958021" scale_x="0.458391" scale_y="-0.58041"/>
+                </key>
+                <key id="2" time="99">
+                    <object folder="17" file="0" x="29.461776" y="-66.517378" angle="125.44663" scale_x="0.45982" scale_y="-0.68346"/>
+                </key>
+                <key id="3" time="168" spin="-1">
+                    <object folder="17" file="0" x="10.510064" y="13.494153" angle="240.968393" scale_x="0.45982" scale_y="-0.68346"/>
+                </key>
+                <key id="4" time="168">
+                    <object folder="17" file="0" x="4.679211" y="-4.186072" angle="38.415449" scale_x="0.45982" scale_y="-0.68346"/>
+                </key>
+                <key id="5" time="202" spin="-1">
+                    <object folder="17" file="0" x="5.258375" y="-4.413915" angle="39.139653" scale_x="0.45982" scale_y="-0.68346"/>
+                </key>
+                <key id="6" time="241" spin="-1">
+                    <object folder="17" file="0" x="-3.978319" y="6.435869" angle="27.579107" scale_x="0.442247" scale_y="0.583991"/>
+                </key>
+                <key id="7" time="263" spin="-1">
+                    <object folder="17" file="0" x="-3.895741" y="1.114869" angle="26.369542" scale_x="0.442756" scale_y="0.547253"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="p_hand_gun_0">
+                <key id="0" time="168" spin="0">
+                    <object folder="13" file="2" x="12.939777" y="-1.37259" angle="352.47618" scale_x="0.623786" scale_y="-0.433516"/>
+                </key>
+                <key id="1" time="202" spin="0">
+                    <object folder="13" file="2" x="12.939777" y="-1.37259" angle="352.47618" scale_x="0.623786" scale_y="-0.433516"/>
+                </key>
+                <key id="2" time="241" spin="0">
+                    <object folder="13" file="2" x="12.939777" y="-1.37259" angle="352.47618" scale_x="0.62379" scale_y="0.43352"/>
+                </key>
+                <key id="3" time="263" spin="0">
+                    <object folder="13" file="2" x="12.939777" y="-1.37259" angle="352.47618" scale_x="0.62379" scale_y="0.412112"/>
+                </key>
+            </timeline>
+            <timeline id="7" obj="3" name="bone_027" object_type="bone">
+                <key id="0" time="168">
+                    <bone x="15.838936" y="-15.269548" angle="323.672125"/>
+                </key>
+                <key id="1" time="168">
+                    <bone x="24.998682" y="21.071128" angle="233.141668"/>
+                </key>
+                <key id="2" time="202">
+                    <bone x="47.015131" y="14.853153" angle="296.582265"/>
+                </key>
+                <key id="3" time="202" spin="0">
+                    <bone x="22.902713" y="-0.612508" angle="8.021984"/>
+                </key>
+                <key id="4" time="241">
+                    <bone x="22.902713" y="-0.612508" angle="8.021984"/>
+                </key>
+                <key id="5" time="263" spin="-1">
+                    <bone x="22.896014" y="-0.571113" angle="28.32338"/>
+                </key>
+            </timeline>
+            <timeline id="8" obj="4" name="bone_028" object_type="bone">
+                <key id="0" time="168" spin="0">
+                    <bone x="12.855441" y="-1.063021" angle="329.411275"/>
+                </key>
+                <key id="1" time="202" spin="0">
+                    <bone x="12.855441" y="-1.063021" angle="329.411275"/>
+                </key>
+                <key id="2" time="241">
+                    <bone x="12.855441" y="-1.063021" angle="329.411275"/>
+                </key>
+                <key id="3" time="263" spin="-1">
+                    <bone x="12.855441" y="-1.063021" angle="337.113412"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
